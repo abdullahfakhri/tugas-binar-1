@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.photo{
+    width: 650px;
+    height: 650px;
+}
+.navbar-utama{
+    display: flex;
+    flex-direction: row;
+}
+.corousel-utama{
+    display: flex;
+    margin: 20px;
+    flex-direction: row;
+    justify-content: center;
+    background-color: wheat;
+    
+}
+.corousel-content{
+    width: 50%;
+    height: 50%;
+    justify-content: center;
+}
